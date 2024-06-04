@@ -1,0 +1,13 @@
+﻿  Invalidating makefile for ShooterEditor (ShooterAnimInstance.cpp.obj.response modified)
+  Building ShooterEditor...
+  Using Visual Studio 2022 14.39.33523 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 16 processes...
+    [1/5] ShooterAnimInstance.cpp
+    [2/5] ShooterCharacter.cpp
+    [3/5] UE4Editor-Shooter-0018.lib
+       Creando biblioteca C:\Users\jdalma\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\UE4Editor-Shooter-0018.lib y objeto C:\Users\jdalma\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\UE4Editor-Shooter-0018.exp
+    [4/5] UE4Editor-Shooter-0018.dll
+       Creando biblioteca C:\Users\jdalma\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\UE4Editor-Shooter-0018.suppressed.lib y objeto C:\Users\jdalma\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\UE4Editor-Shooter-0018.suppressed.exp
+    [5/5] ShooterEditor.target
+  Total time in Parallel executor: 12.34 seconds
+  Total execution time: 14.63 seconds
